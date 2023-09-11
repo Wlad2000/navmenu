@@ -1,0 +1,22 @@
+.header__container{
+    position: fixed;
+    width: 100%;
+    padding: 20px 50px;
+    background-color: black;
+
+}
+
+.header__button{
+    cursor: pointer;
+    background-color: lightblue;
+    border: none;
+    width: 30px;
+    padding: 5px;
+    height: 30px;
+    border-radius: 20px;
+}
+
+.header__button:hover{
+    background-color: gray;
+    border: 1px solid #fff;
+}
